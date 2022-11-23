@@ -1,0 +1,46 @@
+body {
+  background-color: #F4F9F9;
+  margin: 0;
+}
+
+img {
+  height: 200px;
+}
+hr{
+  height:none;
+  width:5%;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:5px;
+  border-color:grey;
+}
+h1
+{
+  color: green;
+  margin-top: 0;
+}
+h2
+{
+  color: black;
+}
+
+
+.book1{
+  color: green;
+}
+#name:hover{
+  color: #17D7A0;
+}
+.link:hover{
+  color: green;
+}
+.emoji{
+  color: red;
+}
+
+.a{
+  color: #32C1CD;
+}
+div{
+  background-color: lightblue;
+}
